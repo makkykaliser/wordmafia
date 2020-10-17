@@ -1,0 +1,2 @@
+# wordmafia
+Spinoff of Mafia
