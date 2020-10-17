@@ -1,2 +1,2 @@
-# wordmafia (failed local attempt)
+# wordmafia
 Spinoff of Mafia
